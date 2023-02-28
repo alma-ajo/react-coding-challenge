@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2016,
+    "mileage": 45379,
+    "price": 10500,
+    "status": "sold"
+  },
+  {
+    "year": 2018,
+    "mileage": 38927,
+    "price": 13000,
+    "status": "on-sale"
+  },
+  {
+    "year": 2017,
+    "mileage": 40922,
+    "price": 12000,
+    "status": "sold"
+  },
+  {
+    "year": 2019,
+    "mileage": 29848,
+    "price": 14000,
+    "status": "on-sale"
+  },
+  {
+    "year": 2017,
+    "mileage": 43602,
+    "price": 12500,
+    "status": "sold"
+  },
+  {
+    "year": 2016,
+    "mileage": 49839,
+    "price": 11000,
+    "status": "sold"
+  },
+  {
+    "year": 2018,
+    "mileage": 34729,
+    "price": 13500,
+    "status": "sold"
+  },
+  {
+    "year": 2019,
+    "mileage": 28887,
+    "price": 14500,
+    "status": "on-sale"
+  },
+  {
+    "year": 2016,
+    "mileage": 51211,
+    "price": 10000,
+    "status": "sold"
+  },
+  {
+    "year": 2017,
+    "mileage": 40132,
+    "price": 13000,
+    "status": "on-sale"
+  }
+]
